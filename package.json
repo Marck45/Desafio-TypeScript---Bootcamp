@@ -1,0 +1,25 @@
+{
+  "name": "desafio-projeto-typescript",
+  "version": "1.0.0",
+  "description": "Projeto Inicial",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "lite-server",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marck45/Desafio-TypeScript---Bootcamp.git"
+  },
+  "author": "marck45",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marck45/Desafio-TypeScript---Bootcamp/issues"
+  },
+  "homepage": "https://github.com/Marck45/Desafio-TypeScript---Bootcamp#readme",
+  "dependencies": {
+    "live-server": "^1.2.2",
+    "typescript": "^4.7.4"
+  }
+}
